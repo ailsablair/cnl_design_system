@@ -1,0 +1,9 @@
+This is a design system for the nuclear power industry. It is being built with React, Typescript and Javascript. We want to use the MUI 6 library as a basis for all of our custom components. The only design tokens that should be used are the custom ones pushed via Figma and json files we provide. Do not use any of the MUI library tokens for colour, sizing and spacing, effects and typography.
+
+We are attempting to make this app as simple as possible, given the very complex subject matter in nuclear power. 
+
+The CNL Design System is a collection of reusable components and clear standards designed to help teams build beautiful, consistent, and accessible user experiences efficiently. It is based on the "Echo Design System" - another Builder.io project we currently own.
+
+Where possible, we should reassess the code that has already been written and see if there is a way to improve it alongside any new UI element additions. Any quality improvements we can make to the code, should be made, especially if they also improve efficiency of  the product design or software development process.
+
+It is paramount that a lot of attention must be paid to getting the user interface design correct. The closer to pixel perfect we can get it, the better.
