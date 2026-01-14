@@ -38,7 +38,6 @@
     "globals": "^16.5.0",
     "playwright": "^1.57.0",
     "storybook": "^10.1.11",
-    "storybook-addon-material-ui": "^0.9.0-alpha.24",
     "storybook-addon-pseudo-states": "^10.1.11",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
